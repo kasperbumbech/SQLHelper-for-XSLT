@@ -1,0 +1,6 @@
+C:\work\chainboxv2\core\Xslt.ApplicationBlocks.Data\Xslt.ApplicationBlocks.Data\bin\Release\Xslt.ApplicationBlocks.Data.dll
+C:\work\chainboxv2\core\Xslt.ApplicationBlocks.Data\Xslt.ApplicationBlocks.Data\bin\Release\Xslt.ApplicationBlocks.Data.pdb
+C:\work\chainboxv2\core\Xslt.ApplicationBlocks.Data\Xslt.ApplicationBlocks.Data\bin\Release\Microsoft.ApplicationBlocks.Data.dll
+C:\work\chainboxv2\core\Xslt.ApplicationBlocks.Data\Xslt.ApplicationBlocks.Data\obj\Release\ResolveAssemblyReference.cache
+C:\work\chainboxv2\core\Xslt.ApplicationBlocks.Data\Xslt.ApplicationBlocks.Data\obj\Release\Xslt.ApplicationBlocks.Data.dll
+C:\work\chainboxv2\core\Xslt.ApplicationBlocks.Data\Xslt.ApplicationBlocks.Data\obj\Release\Xslt.ApplicationBlocks.Data.pdb
