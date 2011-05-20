@@ -127,15 +127,13 @@ namespace Xslt.ApplicationBlocks.Data
         }
 
         private static SqlHelperArgs ParseArgs(XPathNodeIterator args) {
-            // Converting from a xpathnodeiterator to a 
-            // XmlNodebased API
-            args.MoveNext();
-            XmlElement argsel = null;
             
-            if (args.Current is IHasXmlNode)
-            {
-                argsel = (XmlElement) ((IHasXmlNode)args.Current).GetNode();
-            }
+            args.MoveNext();
+
+            XmlDocument xd = new XmlDocument();
+            xd.LoadXml(args.Current.OuterXml);
+
+            XmlElement argsel = (XmlElement)xd.FirstChild;
 
             SqlHelperArgs retval = new SqlHelperArgs();
             

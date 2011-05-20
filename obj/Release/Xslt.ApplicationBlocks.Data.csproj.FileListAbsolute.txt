@@ -4,3 +4,8 @@ C:\work\chainboxv2\core\Xslt.ApplicationBlocks.Data\Xslt.ApplicationBlocks.Data\
 C:\work\chainboxv2\core\Xslt.ApplicationBlocks.Data\Xslt.ApplicationBlocks.Data\obj\Release\ResolveAssemblyReference.cache
 C:\work\chainboxv2\core\Xslt.ApplicationBlocks.Data\Xslt.ApplicationBlocks.Data\obj\Release\Xslt.ApplicationBlocks.Data.dll
 C:\work\chainboxv2\core\Xslt.ApplicationBlocks.Data\Xslt.ApplicationBlocks.Data\obj\Release\Xslt.ApplicationBlocks.Data.pdb
+C:\Users\kasper\SQLHelper-For-Xslt\bin\Release\Xslt.ApplicationBlocks.Data.dll
+C:\Users\kasper\SQLHelper-For-Xslt\bin\Release\Xslt.ApplicationBlocks.Data.pdb
+C:\Users\kasper\SQLHelper-For-Xslt\obj\Release\ResolveAssemblyReference.cache
+C:\Users\kasper\SQLHelper-For-Xslt\obj\Release\Xslt.ApplicationBlocks.Data.dll
+C:\Users\kasper\SQLHelper-For-Xslt\obj\Release\Xslt.ApplicationBlocks.Data.pdb
